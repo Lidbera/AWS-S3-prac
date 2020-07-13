@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="com.s3.prac">
+	<logger name="com.ec2.prac">
 		<level value="info" />
 	</logger>
 	
