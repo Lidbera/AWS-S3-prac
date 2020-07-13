@@ -5,7 +5,7 @@ Amazon S3 in Spring framework example
 
 ### AmazonS3Service.class
 - 업로드
-- ajax를 통해 개수가 정해지지 않은 파일들 업로드
+- ajax를 통해 개수가 정해지지 않은 파일들 업로드(+ home.jsp)
 - 파일명으로 경로 가져오기
 - 삭제
 - UUID를 이용한 파일명 변경
